@@ -54,7 +54,7 @@ src/
 
 ---
 
- Getting Started
+Getting Started
 
 ```bash
 # Clone the repo
@@ -82,7 +82,7 @@ npm run dev
 ![alt text](image-3.png)
 
 ##Employee Dashboard SS
-![alt text](image-4.png)
+[alt text](image-4.png)
 
 🔓 License
 This project is open source under the MIT License.
