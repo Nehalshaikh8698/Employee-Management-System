@@ -69,21 +69,6 @@ npm run dev
 ##LOGIN SS
 ![alt text](image.png)
 
-
-##ADMIN DASHBOARD SS(here we assign new task to employee)
-
-![alt text](image-1.png)
-
-##Summary of All employee SS
-
-![alt text](image-2.png)
-
-##Here We Can Create or Delete Employee
-![alt text](image-3.png)
-
-##Employee Dashboard SS
-[alt text](image-4.png)
-
 🔓 License
 This project is open source under the MIT License.
 Feel free to fork, use, and contribute!
