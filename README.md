@@ -54,7 +54,7 @@ src/
 
 ---
 
-## 📦 Getting Started
+ Getting Started
 
 ```bash
 # Clone the repo
@@ -71,9 +71,11 @@ npm run dev
 
 
 ##ADMIN DASHBOARD SS(here we assign new task to employee)
+
 ![alt text](image-1.png)
 
 ##Summary of All employee SS
+
 ![alt text](image-2.png)
 
 ##Here We Can Create or Delete Employee
